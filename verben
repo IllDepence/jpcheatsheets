@@ -10,6 +10,12 @@ Stems
   くる -> き
   する -> し
 
+# E
+  〜U:
+    〜Eる
+  〜る:
+    〜られる
+
 # て [た analog]
   〜U:
     〜う/つ/る -> 〜って
@@ -45,19 +51,28 @@ Usages
 		+と　おもいます。
 	Vermuting "vielleicht ..."
 		+かもしれません。
+	Finalsatz (wenn nicht mit Bewegungsverb im Hauptsatz und nicht mit Potentialis im Nebensatz)
+		+ために
 # I
 	Gegenwart
-		〜ます
+		+ます
 	Vergangenheit
-		〜ました
+		+ました
 	Verneinung
-		〜ません
+		+ません
 	Verneinte Vergangenheit
-		〜ませんでした
+		+ませんでした
 	Aufforderung ("lass uns ...")
-		〜ましょう
+		+ましょう
 	Wunsch
-		〜たいです
+		+たいです
+	Finalsatz (mit Bewegungsverb im Hauptsatz)
+		+に
+# E
+	Potentialis
+		+
+	Finalsatz (mit Potentialis im Nebensatz)
+		+ように
 # て
 	Satzverbindung
 		+
