@@ -2,19 +2,84 @@ Conditionals
 ------------
 
 # natural consequence (と)
-- [Condition]と[Result]
-- [State-of-beting]だと[Result]
+- <condition>と<result>
+- <state-of-beting>だと<result>
 
 # contextual (なら(ば))
-- [Assumed Context]なら[Result]
+- <assumed context>なら<result>
 - kein だ!
 - +ば = more formal
 
 # general (ば)
-- verbs: 〜U -> 〜Eば
+- verbs: 〜u -> 〜eば
 - i-adj. / 〜ない: 〜い -> 〜ければ
 - na-adj. / noun: +であれば
 
 # general / "past conditional" (たら(ば))
 - 〜た+ら
 - +ば = more formal
+
+
+Must / must not
+---------------
+
+- N = だめ / いけない / ならない
+
+# must not, verb
+- 〜て+は+N
+- casual: 〜ては+N -> 〜ちゃ+N
+- casual: 〜では+N -> 〜じゃ+N
+
+# must (netagive te-form)
+- 〜なくて+は+N
+- casual: 〜なくて+ちゃ
+
+# must (と conditional)
+- <verb>+と+N
+- <state-of-beting>だと+N
+
+# must (ば conditional)
+- verb: 〜U -> 〜Eば+N
+- i-adj. / 〜ない: 〜い -> 〜ければ+N
+- na-adj. / noun: +であれば+N
+- casual: 〜なければ+N -> 〜なきゃ
+
+
+Volitional
+----------
+
+# want to do <verb>
+- 〜I+たい
+
+# want <thing>
+- [...]は<thing>がほしい[...]
+
+# want <thing> done
+- 〜て+ほしい
+
+# "let's ..." casual
+- 〜る: 〜よう
+- 〜u: 〜oう
+
+# "let's ..." polite
+- 〜I+ましょう
+
+# suggestion (ば conditional+どう)
+- verbs: 〜u -> 〜eば+どう
+- i-adj. / 〜ない: 〜い -> 〜ければ+どう
+- na-adj. / noun: +であれば+どう
+
+# suggestion ("past conditional" (たら(ば) +どう)
+- 〜た+ら+[]どう
+- +ば = more formal
+
+
+Quotes
+------
+
+# direct
+「...」と<verb>
+
+# indirect / interpreted
+<something>と<verb>
+casual: <something>って[<verb>]
