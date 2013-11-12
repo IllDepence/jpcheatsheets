@@ -11,7 +11,7 @@ Conditionals
 - +ば = more formal
 
 # general (ば)
-- verbs: 〜u -> 〜eば
+- verbs: 〜U -> 〜Eば
 - i-adj. / 〜ない: 〜い -> 〜ければ
 - na-adj. / noun: +であれば
 
@@ -54,18 +54,18 @@ Volitional
 # want <thing>
 - [...]は<thing>がほしい[...]
 
-# want <thing> done
+# want <something> done
 - 〜て+ほしい
 
 # "let's ..." casual
 - 〜る: 〜よう
-- 〜u: 〜oう
+- 〜U: 〜oう
 
 # "let's ..." polite
 - 〜I+ましょう
 
 # suggestion (ば conditional+どう)
-- verbs: 〜u -> 〜eば+どう
+- verbs: 〜U -> 〜Eば+どう
 - i-adj. / 〜ない: 〜い -> 〜ければ+どう
 - na-adj. / noun: +であれば+どう
 
@@ -78,8 +78,202 @@ Quotes
 ------
 
 # direct
-「...」と<verb>
+- 「...」と<verb>
 
 # indirect / interpreted
-<something>と<verb>
-casual: <something>って[<verb>]
+- <something>と<verb>
+- casual: <something>って[<verb>]
+
+
+Defining and Describing (a.k.a. という madness)
+-----------------------
+
+- spoken language (casual): ゆう statt いう
+
+# define
+- <thing to be defined>+という
+
+# describe
+- <relative clause>+という+の[は/が/も]
+- casual: <relative clause>+って
+
+# talking about a generic thing/matter of a certain nature
+- [こう/そう/ああ/どう]+という -> this/that/what way
+
+# rephrasing and making conclusions
+- rephrase/redefine: +というか
+- conclude: +ということ
+
+
+Trying out and attempting
+-------------------------
+TODO
+
+
+Giving and receiving
+--------------------
+TODO
+
+
+Making requests + command form
+------------------------------
+TODO
+
+
+Casuative
+---------
+
+# formal / normal
+- 〜る: 〜させる
+- 〜U:  〜Aせる
+- する: させる
+- くる: こさせる
+
+# casual / slang
+- 〜る: 〜さす
+- 〜U:  〜Aす
+
+
+Passive
+-------
+
+- 〜る: 〜られる
+- 〜U:  〜Aれる
+- する: される
+- くる: こられる
+
+
+Casuative passive
+-----------------
+
+# formal / normal
+- 〜る: 〜させられる
+- 〜U:  〜Aせられる
+
+# casual / slang
+- 〜る/〜す: n/a
+- 〜U: 〜Aされる
+
+
+Should / Shouldn't
+------------------
+
+# should
+〜た+ぼうがいい
+less usual: 〜U+べっき
+
+# shouldn't
+〜ない+ほうがいい
+less usual: 〜U+べっきじゃない
+
+
+Honorific / Humble
+------------------
+
+# honorific conjugations
+- お + 〜I + に + なる
+- お + 〜I + です 
+- request: お + 〜I + ください
+
+# honorific requests for verbs with special 〜I form
+- 〜I + ませ
+- less formal: 〜I
+
+# humble conjugation
+- お + 〜い + する
+
+
+Things that happen unintentionally
+----------------------------------
+
+- 〜て + しまう
+- casual/cute (-て): +ちゃう
+- casual/cute (-で): +じゃう
+- rough (-て): +ちまう
+- rough (-で): +じまう
+
+
+
+Special expressions with generic nouns (こと/ところ/もの)
+---------------------------------------------------------
+
+# something has happened
+- <sth. (〜U/〜た)> + こと + は + ある
+
+# ところ as an abstract noun
+- <sth.> + ところ -> place / point in time / part of personality / ...
+
+# feminine emphasis
+- <sentence>の / もの / もん
+
+
+Levels of certainty
+-------------------
+
+# uncertain
+- <clause w/o だ> + かもしれない / casual: かも		possibly (uncertain)
+- 多分							maybe
+- でしょう(か)						probably (fair amount of certainty)
+- でしょう / だろう — (both) in casual speech		strong amount of certainty
+# certain
+
+
+Expressing amounts
+------------------
+
+(- they're all particles)
+
+# that's all there is / there is just this
+- だけ
+- formal/text: のみ
+
+# there is nothing ... except for this (emphasis on the lack of everything else)
+- しか + <negative verb>
+- a bit stronger: っきゃ + <negative verb>
+
+# there's so much of this, that there's nothing else
+- ばかり
+- casual: ばっかり
+
+# there's too much of something
+- verbs: 〜I + すぎる
+- na-adj.: +すぎる
+- na-adj.: 〜い -> 〜すぎる
+- 〜ない: 〜なさすぎる
+
+# excessive amounts (amount that is percieved as being too much)
+- <counter>も
+
+# expressing the extent of something
+- nouns/verbs: +ほど
+
+# "the more you <verb>, the more ..."
+- verbs: <verb 〜E> + ば + <same verb> + ほど
+- verbs: <verb 〜たら> + ば + <same verb> + ほど
+- i-adj.: <adj 〜い -> 〜ければ> + <same adj> + ほど
+- na-adj.: (possible with なら-conditional but unusual)
+
+# indicate amount for adjectives
+- 〜い -> 〜さ (becomes a noun)
+
+
+Similarity and hearsay
+----------------------
+TODO
+
+
+Comparisons
+-----------
+TODO
+
+
+Saying someting is easy or difficult to do
+------------------------------------------
+
+# easy
+- 〜I + やすい
+
+# hard
+- 〜I + にくい
+- 〜I + がらい
+- 〜I + づらい
